@@ -1,0 +1,121 @@
+{
+  "formatVersion": 3,
+  "id": "root",
+  "ideas": {
+    "1": {
+      "title": "Concurrency and Parallelization",
+      "id": 1,
+      "attr": {
+        "position": [
+          -219,
+          -38,
+          1
+        ],
+        "style": {
+          "width": 256,
+          "fontMultiplier": 1.25,
+          "backgroundColor": "#FF0000",
+          "text": {
+            "color": "#FFFFFF"
+          }
+        }
+      },
+      "ideas": {
+        "1": {
+          "title": "How to Add Concurrency",
+          "id": "2.e4a833605fb111eab7c4b5664a1da10d",
+          "attr": {
+            "style": {
+              "width": 159,
+              "backgroundColor": "#000000",
+              "text": {
+                "color": "#FFFFFF"
+              }
+            },
+            "position": [
+              240,
+              -134,
+              3
+            ]
+          }
+        },
+        "11": {
+          "title": "Schedulers",
+          "id": "3.e4a833605fb111eab7c4b5664a1da10d",
+          "attr": {
+            "position": [
+              293,
+              -51,
+              4
+            ],
+            "style": {
+              "width": 159,
+              "backgroundColor": "#000000",
+              "text": {
+                "color": "#FFFFFF"
+              }
+            }
+          }
+        },
+        "21": {
+          "title": "subscribeOn()",
+          "id": "4.e4a833605fb111eab7c4b5664a1da10d",
+          "attr": {
+            "position": [
+              299,
+              29,
+              5
+            ],
+            "style": {
+              "width": 159,
+              "backgroundColor": "#000000",
+              "text": {
+                "color": "#FFFFFF"
+              }
+            }
+          }
+        },
+        "31": {
+          "title": "observeOn()",
+          "id": "5.e4a833605fb111eab7c4b5664a1da10d",
+          "attr": {
+            "position": [
+              298,
+              98,
+              8
+            ],
+            "style": {
+              "width": 159,
+              "backgroundColor": "#000000",
+              "text": {
+                "color": "#FFFFFF"
+              }
+            }
+          }
+        },
+        "41": {
+          "title": "The FlatMap",
+          "id": "7.e4a833605fb111eab7c4b5664a1da10d",
+          "attr": {
+            "position": [
+              262,
+              177,
+              9
+            ],
+            "style": {
+              "width": 159,
+              "backgroundColor": "#000000",
+              "text": {
+                "color": "#FFFFFF"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "attr": {
+    "theme": "default"
+  },
+  "title": "Concurrency and Parallelization"
+}

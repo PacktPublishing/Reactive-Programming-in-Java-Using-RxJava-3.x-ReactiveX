@@ -1,0 +1,12 @@
+Welcome back.
+
+In this section we'll see how we can add concurrency in our synchronized observable chains..
+
+so Lets quickly set up the agenda for this section.
+
+We'll start with adding concurrency, then Schedulers, where we gonna talk about different schedulers provided by rxJava..
+ after that we will understand subscribeOn and observerOn in bit detail.
+
+and then the flat map, which we have also covered in combining observables section, here we will see how it can be useful for running the emissions parallelly.
+
+so lets gets started, see you in the next.
